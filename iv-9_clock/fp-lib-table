@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name iv-9_clock)(type KiCad)(uri ${KIPRJMOD}/iv-9_clock.pretty)(options "")(descr ""))
+)
